@@ -5,7 +5,7 @@ import 'package:flutter_ecommerce/pages/intro_page.dart';
 import 'package:flutter_ecommerce/pages/shop_page.dart';
 import 'package:flutter_ecommerce/themes/light_mode.dart';
 import 'package:provider/provider.dart';
-
+//to check something
 void main() {
   runApp(ChangeNotifierProvider
   
